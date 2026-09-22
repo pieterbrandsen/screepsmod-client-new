@@ -1,6 +1,6 @@
 {
   "name": "screepsmod-client-new",
-  "version": "0.2.33-single-shard-room-channel.2",
+  "version": "0.2.33-single-shard-room-channel.3",
   "description": "Screeps server mod that serves a patched screeps-client at /client, vendored so private servers that never shard-prefix their room pub/sub channels can still see room contents and room history. Fork of bastianh/screeps-client's screeps-mod-client + screeps-connectivity RoomStore/roomHistory fixes.",
   "type": "commonjs",
   "main": "index.js",
