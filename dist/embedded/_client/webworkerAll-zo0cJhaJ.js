@@ -1,1 +1,0 @@
-import"./vendor-pixi-BkKb2p9R.js";
