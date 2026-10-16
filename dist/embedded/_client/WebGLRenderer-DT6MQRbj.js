@@ -1,0 +1,1 @@
+import{r as e}from"./vendor-pixi-BO_MlhV3.js";export{e as WebGLRenderer};

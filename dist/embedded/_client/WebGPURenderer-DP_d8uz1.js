@@ -1,0 +1,1 @@
+import{n as e}from"./vendor-pixi-BO_MlhV3.js";export{e as WebGPURenderer};

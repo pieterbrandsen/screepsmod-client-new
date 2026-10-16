@@ -1,0 +1,1 @@
+import"./vendor-pixi-BO_MlhV3.js";
